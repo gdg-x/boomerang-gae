@@ -3,6 +3,14 @@ GDG-X Boomerang for App Engine (Java)
 
 [![Join the chat at https://gitter.im/Splaktar/boomerang-gae](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Splaktar/boomerang-gae?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+## Notice
+
+This project has been deprecated in favor of using either GitHub Pages or Firebase Hosting with the core [boomerang project](https://github.com/gdg-x/boomerang). That approach is much more straightforward. Firebase Hosting provides free SSL Certificates and HTTPS hosting.
+
+However this project can still be used in combination with Prerender.io if SEO is important for your chapter. You will need to manually update the contents of `/war` with the latest changes from [boomerang](https://github.com/gdg-x/boomerang). I had been manually keeping this project updated in the past, but that will no longer happen.
+
+==============================
+
 This is forked from the [GDG-X boomerang](https://github.com/gdg-x/boomerang) project.
 
 Boomerang is a template for a dynamic material design GDG chapter web site that can be deployed
