@@ -122,12 +122,12 @@ Make sure that you do the following successfully before committing:
 3. Protractor tests - Make sure that you fix any broken tests.
 4. If you changed any dependency versions in `bower.json`, make sure that `config/CDN.json` is updated to match.
 
-###Contributors
+### Contributors
 See [list of contributors](https://github.com/gdg-x/boomerang-gae/graphs/contributors)
 
-Maintainer: [@Splaktar](https://github.com/Splaktar).
+Maintainer: None.
 
-######GDG Apps, GDG[x] are not endorsed and/or supported by Google, the corporation.
+###### GDG Apps, GDG[x] are not endorsed and/or supported by Google, the corporation.
 
 License
 --------
